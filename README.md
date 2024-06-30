@@ -1,2 +1,2 @@
 # SimpleCompilerv1
-Deprecated Simple C-like Compiler
+A Deprecated Simple C-like Compiler
