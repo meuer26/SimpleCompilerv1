@@ -1,5 +1,9 @@
-//https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf
-//sticking to Intel syntax and will use NASM to assemble
+// Copyright (c) 2023-2025 Dan O’Malley
+// This file is licensed under the MIT License. See LICENSE for details.
+
+
+// https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf
+// sticking to Intel syntax and will use NASM to assemble
 
 #include "stdio.h"
 #include "parsetree.c"

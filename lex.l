@@ -1,3 +1,7 @@
+/* Copyright (c) 2023-2025 Dan O’Malley */
+/* This file is licensed under the MIT License. See LICENSE for details. */
+
+
 /* https://www.quut.com/c/ANSI-C-grammar-l-1999.html */
 /* DMO no further mods needed */
 %{
